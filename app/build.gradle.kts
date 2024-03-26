@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.eunma.eunmaassistant"
-    compileSdk = 33
+    compileSdk = 34
     viewBinding {
         enable = true
     }
