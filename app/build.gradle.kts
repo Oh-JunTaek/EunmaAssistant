@@ -6,6 +6,9 @@ plugins {
 android {
     namespace = "com.eunma.eunmaassistant"
     compileSdk = 33
+    viewBinding {
+        enable = true
+    }
 
     defaultConfig {
         applicationId = "com.eunma.eunmaassistant"
