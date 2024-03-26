@@ -2,4 +2,7 @@
     <string name="app_name">EunmaAssistant</string>
     <string name="title_a">sample</string>
     <string name="title_home">home</string>
+    <string name="title_settings">설정</string>
+    <string name="title_menu">메뉴</string>
+    <string name="sample">예시</string>
 </resources>
